@@ -28,3 +28,9 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
+Documentation:
+Init: http://www.jaimeolmo.com/2017/01/construir-un-abiente-de-desarrollo-para-vuejs-usando/
+Update: https://www.npmjs.com/package/vue-update
